@@ -1,0 +1,7 @@
+$radius: 50px;
+@mixin radius {
+  border-radius: $radius;
+}
+@mixin bgRed {
+  background: red;
+}

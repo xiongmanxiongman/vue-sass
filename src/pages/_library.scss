@@ -1,0 +1,8 @@
+$color: #000 !default;
+$border-radius: 0.25rem !default;
+$bg-color: rgba($color, 0.15) !default;
+
+.box {
+  border-radius: $border-radius;
+  background-color: $bg-color;
+}
